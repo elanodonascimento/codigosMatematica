@@ -13,4 +13,4 @@ for k=1:N     //
 end
 erros=sum(abs(b-bd));     //faz a diferenca entre o sinal inicial e o com erros
 taxa=erros/N;             // e conta os erros
-disp(taxa);
+disp(taxa); // teste git hub
